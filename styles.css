@@ -227,6 +227,11 @@ body{
     width:70%;
 }
 
+.footer h1{
+    font-size: 150px;
+    margin-top:0px; 
+
+}
 body h1{
     color:white;
     justify-self: center;
@@ -287,6 +292,12 @@ body h1{
 
     }
 
+    .footer h1{
+        font-size: 75px;
+        margin-top:0px; 
+
+    }
+
     .skills h3{
         font-size:50px;
     }
@@ -331,6 +342,11 @@ body h1{
         font-size:100px;
     }
 
+    .footer h1{
+        font-size: 150px;
+        margin-top:0px; 
+
+    }
     .proyectos{
         display: flex;
         font-size:50px;
